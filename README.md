@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Tian-que&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
+</a>
+
+I'm **Hiy0ri**
+
+- 🌱 I’m currently learning Python and React
+
 <!--
 **Hiy0ri/Hiy0ri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
