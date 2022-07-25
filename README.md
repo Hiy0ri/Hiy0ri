@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Tian-que&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Hiy0ri&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
 </a>
 
 I'm **Hiy0ri**
