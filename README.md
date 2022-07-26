@@ -33,7 +33,6 @@
   </div>
 </p>
 
-<br><br><br><br>
 <br>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <p align="center">
