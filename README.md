@@ -19,7 +19,6 @@
   <br>
 - 🌱 I’m currently learning Python and React
 </p>
-<hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -33,7 +32,7 @@
     </a>
   </div>
 </p>
-<hr>
+
 <br><br><br><br>
 <br>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
