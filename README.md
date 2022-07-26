@@ -19,6 +19,9 @@
   <br>
 - 🌱 I’m currently learning Python and React
   <br>
+  <br>
+  <br>
+  <br>
   <code><img title="C" height="25" src="images/c.svg"></code>
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
