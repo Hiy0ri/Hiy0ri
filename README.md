@@ -10,7 +10,7 @@
   <code><a href="http://wpa.qq.com/msgrd?v=3&uin=1980954667&site=qq&menu=yes" title="QQ Profile"><img height="24" src="images/QQ.svg">  </a></code>
   <code><a href="mailto: 1980954667@qq.com" title="点击给我发邮件"><img height="24" src="images/mail.svg">  </a></code>
   <code><a href="http://newjersey.cnblogs.com/" title="Hiy0ri's Cnblogs"><img height="24" src="images/cnblogs.svg">  </a></code>
-  <code><a href="https://gitee.com/geekswg" title="Hiy0ri's Gitee"><img height="24" src="images/gitee2.png">  </a></code>
+  <code><a href="https://gitee.com/newjersey" title="Hiy0ri's Gitee"><img height="24" src="images/gitee2.png">  </a></code>
   <code><a href="https://github.com/Hiy0ri" title="Hiy0ri's GitHhub"><img height="24" src="images/github.svg">  </a></code>
 </h5>
 <br>
