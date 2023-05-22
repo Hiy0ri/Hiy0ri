@@ -1,11 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Hiy0ri.Hiy0ri">
-<img src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;Welcome+Here,+My+Buddy....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-
+<img src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
 <h5 align="center">
   <code><a href="http://wpa.qq.com/msgrd?v=3&uin=1980954667&site=qq&menu=yes" title="QQ Profile"><img height="24" src="images/QQ.svg">  </a></code>
   <code><a href="mailto: 1980954667@qq.com" title="点击给我发邮件"><img height="24" src="images/mail.svg">  </a></code>
